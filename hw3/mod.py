@@ -1,0 +1,2 @@
+# mod.py
+msg = "B"
